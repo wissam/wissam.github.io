@@ -1,1 +1,24 @@
-theme: jekyll-theme-midnight
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Re:Learning
+tagline:          'Back to Geekiness'
+description:      'An Engineer getting back in touch with his Geekiness'
+url:              https://wissam.online
+baseurl:          /
+
+author:
+  name:           'Wissam Youssef'
+  url:            https://twitter.com/_wissamyoussef
+
+paginate:         7
+
+# Custom vars
+version:          2.1.0
+
